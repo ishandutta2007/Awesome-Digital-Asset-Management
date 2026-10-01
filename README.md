@@ -60,45 +60,45 @@ Below is a curated comparison of leading SaaS Digital Asset Management platforms
 
 ## 🔓 Open-Source GitHub Projects ⚡
 
-Explore production-ready open-source Digital Asset Management systems. Repositories are sorted by **GitHub Star Count (descending)**.
+Explore production-ready open-source Digital Asset Management systems. Repositories are sorted by **GitHub Stars_Count (descending)**.
 
-- **[paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** [![GitHub stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)  
+- **[paperless-ngx](https://github.com/paperless-ngx/paperless-ngx)** [![GitHub_Stars](https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social&color=white)](https://github.com/paperless-ngx/paperless-ngx/stargazers)  
   *📄 Community-driven document management system (DAM/EDMS) with full-text search, OCR, automated tagging, and multi-format indexers.*
 
-- **[UnoPim DAM](https://github.com/unopim/unopim)** [![GitHub stars](https://img.shields.io/github/stars/unopim/unopim?style=social&color=white)](https://github.com/unopim/unopim/stargazers)  
+- **[UnoPim DAM](https://github.com/unopim/unopim)** [![GitHub_Stars](https://img.shields.io/github/stars/unopim/unopim?style=social&color=white)](https://github.com/unopim/unopim/stargazers)  
   *🛍️ Laravel-based open-source DAM & PIM ecosystem with directory trees, drag-and-drop media operations, AI background editing, and e-commerce integrations.*
 
-- **[Lychee](https://github.com/LycheeOrg/Lychee)** [![GitHub stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?style=social&color=white)](https://github.com/LycheeOrg/Lychee/stargazers)  
+- **[Lychee](https://github.com/LycheeOrg/Lychee)** [![GitHub_Stars](https://img.shields.io/github/stars/LycheeOrg/Lychee?style=social&color=white)](https://github.com/LycheeOrg/Lychee/stargazers)  
   *📸 Self-hosted PHP photo management system and digital asset server with nested albums, EXIF extraction, watermarking, and payment gateway support.*
 
-- **[Pimcore](https://github.com/pimcore/pimcore)** [![GitHub stars](https://img.shields.io/github/stars/pimcore/pimcore?style=social&color=white)](https://github.com/pimcore/pimcore/stargazers)  
+- **[Pimcore](https://github.com/pimcore/pimcore)** [![GitHub_Stars](https://img.shields.io/github/stars/pimcore/pimcore?style=social&color=white)](https://github.com/pimcore/pimcore/stargazers)  
   *🏢 Enterprise-grade open-source platform combining Digital Asset Management (DAM), Product Information Management (PIM), MDM, and Customer Data Platform (CDP).*
 
-- **[Damselfly](https://github.com/Webreaper/Damselfly)** [![GitHub stars](https://img.shields.io/github/stars/Webreaper/Damselfly?style=social&color=white)](https://github.com/Webreaper/Damselfly/stargazers)  
+- **[Damselfly](https://github.com/Webreaper/Damselfly)** [![GitHub_Stars](https://img.shields.io/github/stars/Webreaper/Damselfly?style=social&color=white)](https://github.com/Webreaper/Damselfly/stargazers)  
   *🏷️ Server-hosted DAM for photo and video collections with built-in AI face detection/recognition, EXIF browsing, and IPTC keyword writing.*
 
-- **[Mayan EDMS](https://github.com/mayan-edms/Mayan-EDMS)** [![GitHub stars](https://img.shields.io/github/stars/mayan-edms/Mayan-EDMS?style=social&color=white)](https://github.com/mayan-edms/Mayan-EDMS/stargazers)  
+- **[Mayan EDMS](https://github.com/mayan-edms/Mayan-EDMS)** [![GitHub_Stars](https://img.shields.io/github/stars/mayan-edms/Mayan-EDMS?style=social&color=white)](https://github.com/mayan-edms/Mayan-EDMS/stargazers)  
   *📑 Free and open-source electronic document asset management system featuring document versioning, OCR, cryptographically signed documents, and workflow engines.*
 
-- **[Openinary](https://github.com/openinary/openinary)** [![GitHub stars](https://img.shields.io/github/stars/openinary/openinary?style=social&color=white)](https://github.com/openinary/openinary/stargazers)  
+- **[Openinary](https://github.com/openinary/openinary)** [![GitHub_Stars](https://img.shields.io/github/stars/openinary/openinary?style=social&color=white)](https://github.com/openinary/openinary/stargazers)  
   *🐳 Self-hosted, Dockerized Cloudinary alternative for dynamic image and video transformation via URL parameters, compatible with S3/MinIO.*
 
-- **[Daminik](https://github.com/daminikhq/daminik)** [![GitHub stars](https://img.shields.io/github/stars/daminikhq/daminik?style=social&color=white)](https://github.com/daminikhq/daminik/stargazers)  
+- **[Daminik](https://github.com/daminikhq/daminik)** [![GitHub_Stars](https://img.shields.io/github/stars/daminikhq/daminik?style=social&color=white)](https://github.com/daminikhq/daminik/stargazers)  
   *⚡ Lightweight and scalable PHP Digital Asset Manager with integrated CDN capabilities designed as a single source of truth for media files.*
 
-- **[Phraseanet](https://github.com/alchemy-fr/Phraseanet)** [![GitHub stars](https://img.shields.io/github/stars/alchemy-fr/Phraseanet?style=social&color=white)](https://github.com/alchemy-fr/Phraseanet/stargazers)  
+- **[Phraseanet](https://github.com/alchemy-fr/Phraseanet)** [![GitHub_Stars](https://img.shields.io/github/stars/alchemy-fr/Phraseanet?style=social&color=white)](https://github.com/alchemy-fr/Phraseanet/stargazers)  
   *🔍 PHP & Elasticsearch-powered open-source DAM solution for photos, videos, and documents with AI indexing, video chaptering, and rights management.*
 
-- **[Visual Asset Management System (VAMS)](https://github.com/awslabs/visual-asset-management-system)** [![GitHub stars](https://img.shields.io/github/stars/awslabs/visual-asset-management-system?style=social&color=white)](https://github.com/awslabs/visual-asset-management-system/stargazers)  
+- **[Visual Asset Management System (VAMS)](https://github.com/awslabs/visual-asset-management-system)** [![GitHub_Stars](https://img.shields.io/github/stars/awslabs/visual-asset-management-system?style=social&color=white)](https://github.com/awslabs/visual-asset-management-system/stargazers)  
   *☁️ AWS Labs open-source solution designed to manage, transform, and distribute 3D, 2D, and spatial computing visual assets in cloud infrastructure.*
 
-- **[AtroDAM](https://github.com/atrocore/atrodam)** [![GitHub stars](https://img.shields.io/github/stars/atrocore/atrodam?style=social&color=white)](https://github.com/atrocore/atrodam/stargazers)  
+- **[AtroDAM](https://github.com/atrocore/atrodam)** [![GitHub_Stars](https://img.shields.io/github/stars/atrocore/atrodam?style=social&color=white)](https://github.com/atrocore/atrodam/stargazers)  
   *🔌 API-first open-source DAM built on the AtroCore framework, offering seamless integration with PIM and Master Data Management (MDM).*
 
-- **[ResourceSpace](https://github.com/resourcespace/resourcespace)** [![GitHub stars](https://img.shields.io/github/stars/resourcespace/resourcespace?style=social&color=white)](https://github.com/resourcespace/resourcespace/stargazers)  
+- **[ResourceSpace](https://github.com/resourcespace/resourcespace)** [![GitHub_Stars](https://img.shields.io/github/stars/resourcespace/resourcespace?style=social&color=white)](https://github.com/resourcespace/resourcespace/stargazers)  
   *🏛️ Long-standing open-source DAM trusted by non-profits and enterprise institutions with LAMP stack or Docker setup, granular permissions, and header indexing.*
 
-- **[Madek](https://github.com/Madek/Madek)** [![GitHub stars](https://img.shields.io/github/stars/Madek/Madek?style=social&color=white)](https://github.com/Madek/Madek/stargazers)  
+- **[Madek](https://github.com/Madek/Madek)** [![GitHub_Stars](https://img.shields.io/github/stars/Madek/Madek?style=social&color=white)](https://github.com/Madek/Madek/stargazers)  
   *🎨 Web-based media archiving software developed by Zurich University of the Arts (ZHdK) for cataloging, sharing, and crowdsourcing media metadata.*
 
 ### 🛠️ Frameworks & Specialized DAM Utilities ⚙️
